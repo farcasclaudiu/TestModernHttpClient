@@ -15,7 +15,7 @@ namespace TestModernHttpClient
 {
     public partial class MainPage : ContentPage
     {
-        public const string TEST_URL = "http://mockhttpcalls.azurewebsites.net/api/values";
+        public const string TEST_URL = "https://mockhttpcalls.azurewebsites.net/api/values";
 
         public MainPage()
         {
